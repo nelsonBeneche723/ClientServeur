@@ -1,0 +1,11 @@
+Architecture 2 tiers ou client lourd: 
+client-serveur
+Ex: poste client et serveur de base de donnees.
+
+Architecture 3 tiers ou architecture a 3 niveaux, client leger:
+modele-vue-controleur:
+Ex: poste client, poste serveur, SGBD.
+
+Premier  niveau : l'affichage et  les traitements locaux  (contrôles de saisie,  mise en forme de données...) sont pris en charge par le poste client,
+Deuxième  niveau :  les  traitements applicatifs globaux  sont  pris  en  charge  par le service applicatif,
+Troisième niveau : les services de base de données sont pris en charge par un SGBD.

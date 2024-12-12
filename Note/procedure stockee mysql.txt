@@ -1,0 +1,2 @@
+procedure: 
+c'est une maniere de creer une fonction mysql qui va retourner plusieurs valeurs d'une base de donnees
